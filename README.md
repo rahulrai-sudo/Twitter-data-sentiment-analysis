@@ -1,7 +1,7 @@
 # Twitter-Sentiment-Analysis  
 ### Uses Multinomial Naive Bayes Classifier
 
-## Project link: [Twitter Sentiment Analysis](https://github.com/rahulrai-sudo/Twitter-data-sentiment-analysis/blob/main/twitter-sentiment-analysis.ipynb)
+## Project link: [Twitter Sentiment Analysis](https://github.com/rahulrai-sudo/Twitter-data-sentiment-analysis/blob/main/Twitter_Data_Sentiment_Analysis.ipynb)
 
 ## Project report link: [twitter sentiment analysis project report](https://github.com/rahulrai-sudo/Twitter-data-sentiment-analysis/blob/main/Project%20Report.pdf)
 
