@@ -3,7 +3,7 @@
 
 ## Project link: [Twitter Sentiment Analysis](https://github.com/rahulrai-sudo/Twitter-data-sentiment-analysis/blob/main/Twitter_Data_Sentiment_Analysis.ipynb)
 
-## Project report link: [twitter sentiment analysis project report](https://github.com/rahulrai-sudo/Twitter-data-sentiment-analysis/blob/main/Project%20Report.pdf)
+## Project report link: [twitter sentiment analysis project report](https://github.com/rahulrai-sudo/Twitter-data-sentiment-analysis/blob/main/Project%20Report%20by%20Rahul%20Rai.pdf)
 
 #### Datasets taken from
 * **[Kaggle Twitter dataset](https://www.kaggle.com/c/twitter-sentiment-analysis2/data)**
